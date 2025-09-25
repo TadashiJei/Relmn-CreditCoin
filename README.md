@@ -59,7 +59,7 @@ Built with modularity, interoperability, and scalability in mind, Relmn targets 
 
 The platform is built on the Creditcoin blockchain as an EVM-compatible protocol. Core components include smart contracts for asset tokenization and lending, AI-driven credit scoring oracles, multi-asset wallet support, decentralized governance DAO, and satellite API integrations for DePIN.
 
-![Relmn Architecture Diagram](./public/architecture.png)
+![Relmn Architecture Diagram](Relmn-Frontend/public/architecture.png)
 
 ---
 For detailed dev docs, visit [docs.relmn.com](http://docs.relmn.com).
